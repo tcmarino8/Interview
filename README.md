@@ -1,4 +1,4 @@
-# Interview-for-TrustLab
+# Interview
 
 In this project, I first spent some time figuring out what this data set consisted of in order to see what I wanted to do with it. I came to the conclusion that I would do analysis on location of data point. I had to sift the data quite a bit in order to find data that I could work with. I reduced the original data set into one that was much smaller, however this smaller one contained all the data that held latitudes and longitudes that were not NaN. I then wanted to cluster the data into specific regions of the country, however after further analysis, I found that I could go for an even smaller portion of the data that would allow me to categorize each data point into provinces. The first scatter plot is all the data with latitudes and longitudes, and then following scatter plots are only the data with a province associated with it.
 
